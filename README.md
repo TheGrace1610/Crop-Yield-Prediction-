@@ -1,2 +1,2 @@
-# Crop-Yield-Prediction-
-In this I have used Machine Learning to predict the crop production
+# Crop-Yield-Prediction-Using-Machin-Learning-Python
+Crop Yield Prediction Using Machin Learning Python
